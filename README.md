@@ -5,5 +5,5 @@
 ## Контакты
 We have a few channels for contact:
 
-- [Telegram](https://www.telegram.org/):
-- [GitHub](https://www.github.com/)
+- [Telegram](https://t.me/easyCodeRu):
+- [GitHub](https://github.com/johnnysc)

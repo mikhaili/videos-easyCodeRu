@@ -1,5 +1,5 @@
 # Видео серия: Тестовое задание джуна на максималках
-- ROOM, RETROFIT, MVVM, TDD, UiTests, Junit4
+- ROOM, Retrofit, WorkManager, MVVM, TDD, UiTests, Junit4
 
 ## 1 серия! Обсуждаем неочевидные сложности
 
@@ -97,21 +97,28 @@ https://youtu.be/HqP2ETjau4w
 **75 минут**
 https://youtu.be/NmHT137m5MU 
 
+## 17 серия! WorkManager
+каждые 15 минут в фоне получаем данные от сервера и кладем в ROOM
+
+**90 минут**
+https://youtu.be/RDY8LAx0fFU
+
 ## Все видео: 
 1. https://youtu.be/NJG6vuFwXeo
 2. https://youtu.be/FPVlZYA4RG8
-2. https://youtu.be/urwPR2SmIso
-3. https://youtu.be/AJ1oaRIod9U
-4. https://youtu.be/n8VLButPMrw
-5. https://youtu.be/ePlEsY7Oy3Q
-6. https://youtu.be/ITH0CteDePw
-7. https://youtu.be/OwsgrKbsWYU
-8. https://youtu.be/zf_Zyyc3PgM
-9. https://youtu.be/BIrerTJz-Nc
-10. https://youtu.be/XV9uOz7Y2w4
-11. https://youtu.be/X-IaK0A_zVk
-12. https://youtu.be/0cuf9P3qvBA
-13. https://youtu.be/DPQEvyfX45I
-14. https://youtu.be/HqP2ETjau4w
-15. https://youtu.be/NmHT137m5MU 
+3. https://youtu.be/urwPR2SmIso
+4. https://youtu.be/AJ1oaRIod9U
+5. https://youtu.be/n8VLButPMrw
+6. https://youtu.be/ePlEsY7Oy3Q
+7. https://youtu.be/ITH0CteDePw
+8. https://youtu.be/OwsgrKbsWYU
+9. https://youtu.be/zf_Zyyc3PgM
+10. https://youtu.be/BIrerTJz-Nc
+11. https://youtu.be/XV9uOz7Y2w4
+12. https://youtu.be/X-IaK0A_zVk
+13. https://youtu.be/0cuf9P3qvBA
+14. https://youtu.be/DPQEvyfX45I
+15. https://youtu.be/HqP2ETjau4w
+16. https://youtu.be/NmHT137m5MU 
+17. https://youtu.be/RDY8LAx0fFU
 

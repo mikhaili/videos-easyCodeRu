@@ -4,7 +4,7 @@
 ## 1 серия! Вход выход
 
 ** минут**
-https://www.youtube.com/watch?v=bCE4haReRfA
+https://www.youtube.com/watch?v=PPp79YoAphA
 
 ## 2 серия! Добавление в БД
 

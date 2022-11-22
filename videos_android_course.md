@@ -35,6 +35,13 @@ https://youtu.be/hSMVqZoaJrc
 **107 минут**
 https://youtu.be/oAAXVh_UMDI
 
+## 6 серия!
+Сохраняем данные перманентно
+Тестируем время
+#### [**согласно лекции пдф на гитхабе**](https://github.com/JohnnySC/Lectures/blob/main/Easy%20code.%20Android.%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20006.pdf)
+
+**50 минут**
+https://youtu.be/iqZgv2O62ks
 
 ## Все видео: 
 
@@ -43,3 +50,4 @@ https://youtu.be/oAAXVh_UMDI
 3. https://youtu.be/LM8XSXVezlY
 4. https://youtu.be/hSMVqZoaJrc
 5. https://youtu.be/oAAXVh_UMDI
+6. https://youtu.be/iqZgv2O62ks

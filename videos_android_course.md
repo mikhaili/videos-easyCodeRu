@@ -43,6 +43,16 @@ https://youtu.be/oAAXVh_UMDI
 **50 минут**
 https://youtu.be/iqZgv2O62ks
 
+
+## 7 серия!
+Юнит тесты вьюмодели
+Как тестировать время в таймере
+Принципы SOLID : L & D
+Что такое тестируемый код и почему это хороший код
+
+**1 час 17 минут**
+https://www.youtube.com/watch?v=pLY8_I2E_QY
+
 ## Все видео: 
 
 1. https://youtu.be/K5qjIWwg_sc
@@ -51,3 +61,4 @@ https://youtu.be/iqZgv2O62ks
 4. https://youtu.be/hSMVqZoaJrc
 5. https://youtu.be/oAAXVh_UMDI
 6. https://youtu.be/iqZgv2O62ks
+7. https://www.youtube.com/watch?v=pLY8_I2E_QY

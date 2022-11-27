@@ -1,6 +1,6 @@
 # Видео с канала [easyCodeRu](https://www.youtube.com/c/easycoderu)
 ## Контент
-Последнее обновлен: 22.11.2022
+Последнее обновлен: 27.11.2022
 
 #### - [TDD новые видео](videos_tdd_new.md)
 #### - [Видеокурс ТДД ООП КОТЛИН (Kotlin)](videos_kotlin_from_zero2hero.md)
@@ -13,6 +13,7 @@
 #### - [Андроид (Android)](videos_android.md)
 #### - [Видеокурс Джава Котлин и Андроид](videos_java_kotlin_course.md)
 #### - [Тестовое задание джуна на максималках](videos_jun_test_task.md)
+#### - [Тестовое задание на стажера ](videos_jun2_test_task.md)
 
 ## Контакты
 We have a few channels for contact:
